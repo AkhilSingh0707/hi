@@ -1,5 +1,9 @@
 # hi
 
+
+To design a two-page Android application layout for the Freshers' Party registration at Graphic Era University for the MCA III semester, the application will provide an intuitive interface for volunteer registration and participation status viewing. Page 1 will function as the Volunteer Registration Form, allowing users to input details such as the volunteer's name, student ID, department, contact information, and contribution fund amount. Below the input fields, there will be a section displaying the names and contributions of registered volunteers in a static format. A Submit Button will allow users to complete the registration process. Page 2 will present the Participation Status, titled "Freshers' Party Participation Status." This page will include two separate sections: one displaying the names of students who are actively participating and another for those who are not interested in the event.
+
+
 Java Code (MainActivity.java and StatusActivity.java)
 MainActivity.java (for Registration Form)
 
